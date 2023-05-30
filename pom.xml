@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.alekubi</groupId>
 	<artifactId>awsec2springmongo</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.2-SNAPSHOT</version>
 	<name>awsec2springmongo</name>
 	<description>This is a demo project, integrating a Spring Boot Web Application with a MongoDB to test AWS-services like CodePipeline, CodeCommit, EC2 and DocumentDB</description>
 	<properties>
